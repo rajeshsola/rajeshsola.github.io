@@ -1,10 +1,11 @@
-## About me
+### About me
+
 - Core Faculty @ CDAC's Advanced Computing Training School,Pune.
 - Evangelist in Embedded Systems, IOT Domains
 
 ### My Skills
 
- Core Expertise:-
+#### Core Expertise:-
 - C programming for Linux applications, Kernel programming, Firmware development
 - Effective use of GNU tools for native & cross development
 - Working with Embedded Linux - cross building kernel & applications,device tree bindings
@@ -18,14 +19,14 @@
 - Prototyping with NodeRed for Embedded Systems, IOT solutions,writing custom Addons
 - InfluxData TICK stack for Time Series Data Management
 
-Additional:-
+#### Additional:-
 - Android USB Framework - AOA Protocol,ADK support, Host APIs
 - Qt programming for Embedded Systems & IOT, eg:- RaspberryPi, Sensors, Charting etc. (working on)
 - mbed.org APIs for firmware development with platformio IDE(working on)
 - SocketCAN, canbus support on Linux(working on)
 - Zephyr OS(incubating phase)
 
-In Past:-
+#### In Past:-
 - OpenOffice.org/LibreOffice development
 - VBA Interoperability in OpenOffice.org/LibreOffice
 
@@ -49,7 +50,12 @@ In Past:-
 - Qt Apps on RaspbeeryPi for IMU Sensors @ iotshow.in part of India Electronics Week 2017, BIEC Bengaluru, March 2017, along with Rishabh Hardas
 
 
-### My Articles
+### My Articles (Published in recent years)
+
+- How to Cross Compile the Linux Kernel with Device Tree Support, Open Source For You, September 2014
+
+- What’s the Android Open Accessory Protocol All About, Open Source For You, October 2014
+
 - CoAP:Get Started with IOT Protocols, Open Source For You, August 2016
 
 - MQTT:Get Started with IOT Protocols, Open Source For You, October 2016
@@ -65,5 +71,8 @@ In Past:-
 - Qt Apps for IMU Sensors, SenseHAT on RaspberryPi
 
 ### Contact me
+
+https://in.linkedin.com/in/rajeshsola
+
 mailto:- rajeshsola@gmail.com
 
