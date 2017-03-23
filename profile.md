@@ -45,7 +45,7 @@
 
 - InfluxDb - Time Series Database for IOT Needs @ Open Source India 2016, Nimhans Convention Centre, Bengaluru.
 
-- Deep Secrets of C/C++ Development @ Faculty Development Program on Advanced Computing & Application Development,February 2017 jointly organized by CDAC ACTS & Intel,Pune
+- Deep Secrets of C/C++ Development @ Faculty Development Programme on Advanced Computing & Application Development,February 2017 jointly organized by CDAC ACTS & Intel,Pune
 
 - Modelling IOT Gateway - A CanBus Example @ iotshow.in part of India Electronics Week 2017, BIEC Bengaluru, March 2017 along with  Shubham Srivastava.
 
@@ -65,6 +65,8 @@
 - GNU Tools that help you for C/C++ Development, Open Source For You, November 2016
 
 - Open source software that help for your IOT development, Open Source For You, February 2017.
+
+Some of these articles are available for public access @ opensourceforu.com/author/rajesh-sola
 
 ### Current Work
 
