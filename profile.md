@@ -14,7 +14,8 @@
 - Real Time Operating Systems - Xenomai, FreeRTOS
 - C++ for embedded applications(for Linux & MCU targets)
 - Open source solutions for IOT development(across the layers)
-- IOT Communication - MQTT,CoAP,HTTP REST protocols, Gateway solutions -NodeRED,Eclipse Kura
+- IOT Communication - MQTT,CoAP,HTTP REST, Websockets protocols
+- IOT Gateway solutions - NodeRED,Eclipse Kura
 - Node.js for Embedded Systems,IOT programming
 - Prototyping with NodeRed for Embedded Systems, IOT solutions,writing custom Addons
 - InfluxData TICK stack for Time Series Data Management
