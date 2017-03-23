@@ -52,6 +52,7 @@
 - Qt Apps on RaspbeeryPi for IMU Sensors @ iotshow.in part of India Electronics Week 2017, BIEC Bengaluru, March 2017, along with Rishabh Hardas.
 
 
+
 ### My Articles (Published in recent years)
 
 - How to Cross Compile the Linux Kernel with Device Tree Support, Open Source For You, September 2014
@@ -67,6 +68,18 @@
 - Open source software that help for your IOT development, Open Source For You, February 2017.
 
 Some of these articles are available for public access @ opensourceforu.com/author/rajesh-sola
+
+Articles published in Linux For You , In past:-
+
+- Create Cute Apps with Qt : Part 1 & Part2, November 2009 & December 2009
+
+- Play With Your Partitions, September 2009
+
+- VBA Macro Interoperability in OpenOffice.org, August 2009
+
+- Enrich OpenOffice.org with Extensions, Part 1 & Part2, July 2009 & August 2009
+
+- Automate Your Work with OpenOffice.org Macros, May  2009 
 
 ### Current Work
 
