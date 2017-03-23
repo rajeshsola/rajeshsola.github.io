@@ -45,9 +45,11 @@
 
 - InfluxDb - Time Series Database for IOT Needs @ Open Source India 2016, Nimhans Convention Centre, Bengaluru.
 
-- Modelling IOT Gateway - A CanBus Example @ iotshow.in part of India Electronics Week 2017, BIEC Bengaluru, March 2017 along with  Subham Srivastava.
+- Deep Secrets of C/C++ Development @ Faculty Development Program on Advanced Computing & Application Development,February 2017 jointly organized by CDAC ACTS & Intel,Pune
 
-- Qt Apps on RaspbeeryPi for IMU Sensors @ iotshow.in part of India Electronics Week 2017, BIEC Bengaluru, March 2017, along with Rishabh Hardas
+- Modelling IOT Gateway - A CanBus Example @ iotshow.in part of India Electronics Week 2017, BIEC Bengaluru, March 2017 along with  Shubham Srivastava.
+
+- Qt Apps on RaspbeeryPi for IMU Sensors @ iotshow.in part of India Electronics Week 2017, BIEC Bengaluru, March 2017, along with Rishabh Hardas.
 
 
 ### My Articles (Published in recent years)
