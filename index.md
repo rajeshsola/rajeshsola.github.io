@@ -13,7 +13,7 @@ and node-red-contrib-influxql is an unpublished node set.
 [Here](https://github.com/rajeshsola/mbed-examples) are some examples on using mbed APIs for ARM target board
 
 ### Qt examples
-TODO
+[Here](https://github.com/rajeshsola/qt-examples) are some examples on sensor interfacing, connectivity in IOT.
 
 ### IOT examples
 [Click Here](https://github.com/rajeshsola/iot-examples)
