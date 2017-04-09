@@ -68,6 +68,8 @@
 
 - Open source software that help for your IOT development, Open Source For You, February 2017.
 
+- Managing Timeseries Data using InfluxData, Open Source For You, April 2017
+
 Some of these articles are available for public access @ opensourceforu.com/author/rajesh-sola
 
 Articles published in Linux For You , In past:-
