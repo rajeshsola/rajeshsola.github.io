@@ -94,5 +94,7 @@ Articles published in Linux For You , In past:-
 
 https://in.linkedin.com/in/rajeshsola
 
+https://twitter.com/rajeshsola 
+
 mailto:- rajeshsola@gmail.com
 
