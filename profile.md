@@ -22,10 +22,12 @@
 
 #### Additional:-
 - Android USB Framework - AOA Protocol,ADK support, Host APIs
+- SocketCAN, canbus support on Linux
+- SiteWhere,An Open Platform for Device connectivity and data management.
 - Qt programming for Embedded Systems & IOT, eg:- RaspberryPi, Sensors, Charting etc. (working on)
 - mbed.org APIs for firmware development with platformio IDE(working on)
-- SocketCAN, canbus support on Linux(working on)
 - Zephyr OS(incubating phase)
+- StrongLoop LoopBack.io - Building RESTful APIs for Mobile & Web Applications(incubating phase)
 
 #### In Past:-
 - OpenOffice.org/LibreOffice development
@@ -69,6 +71,9 @@
 - Open source software that help for your IOT development, Open Source For You, February 2017.
 
 - Managing Timeseries Data using InfluxData, Open Source For You, April 2017
+
+- Qt Programming for HTTP REST Clients, Open Source For You, May 2017
+
 
 Some of these articles are available for public access @ opensourceforu.com/author/rajesh-sola
 
