@@ -2,6 +2,7 @@
 
 - Core Faculty @ CDAC's Advanced Computing Training School,Pune.
 - Evangelist in Embedded Systems, IOT Domains
+- Guest Author for Open Source For You(OSFY) Magazine, EFY Group
 
 ### My Skills
 
