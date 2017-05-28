@@ -75,9 +75,9 @@
 
 - Qt Programming for HTTP REST Clients, Open Source For You, May 2017
 
-- SiteWhere : An Open Platform for Conencted Devices, June 2017
+- SiteWhere : An Open Platform for Conencted Devices, Open Source For You, June 2017
 
-- Writing Custom Add-ons for Node-RED, June 2017
+- Writing Custom Add-ons for Node-RED, Open Source For You, June 2017
 
 
 Some of these articles are available for public access @ opensourceforu.com/author/rajesh-sola
