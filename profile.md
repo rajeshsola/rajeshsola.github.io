@@ -69,11 +69,15 @@
 
 - GNU Tools that help you for C/C++ Development, Open Source For You, November 2016
 
-- Open source software that help for your IOT development, Open Source For You, February 2017.
+- Open source software that help for your IOT development, Open Source For You, February 2017 & Republished in Electronics For You, June 2017
 
 - Managing Timeseries Data using InfluxData, Open Source For You, April 2017
 
 - Qt Programming for HTTP REST Clients, Open Source For You, May 2017
+
+- SiteWhere : An Open Platform for Conencted Devices, June 2017
+
+- Writing Custom Add-ons for Node-RED, June 2017
 
 
 Some of these articles are available for public access @ opensourceforu.com/author/rajesh-sola
