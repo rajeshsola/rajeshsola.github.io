@@ -1,32 +1,63 @@
 ### About me
-
-- Core Faculty @ CDAC's Advanced Computing Training School,Pune.
-- Evangelist in Embedded Systems, IOT Domains
+- Principal Educator, ECoDe, KPIT Technologies
+- 15 years of industry-academia experience with expertise on Embedded Systems, Automotive & IOT
 - Guest Author for Open Source For You(OSFY) Magazine, EFY Group
+- Invited speaker for Open Source, Embedded & IOT Conferences
 
-### My Skills
+### Skill Highlights
+* Passionate in Teaching with effective and logical methods.
+* Strong Technical Skills in C,C++, Linux System Programming, Kernel programming
+Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
+* Strong proficiency in modern C++ standards - C++11 & 14 (17 is in progress)
+* Evangelist in Open Source trends in Embedded Systems, Automotive Segment, IOT Solutions.
+
+### Potential Areas of Contribution (In progress/wishlist)
+* Test Driven Development in C/C++/Java/Python edition (In Progress)
+* Embedded Android(AOSP) - Internals & System Programming, in view of Automation (In Progress)
+* Yocto Linux for Embedded/Automotive solutions (In Progress)
+* Open source software for learning needs - LMS/CMS, Auto Grading, Remote Hands-on (In Progress)
+* Automotive Grade Linux (In wishlist)
 
 #### Core Expertise:-
-- C programming for Linux applications, Kernel programming, Firmware development
+- Proficiency in Computational & Programming skills - C, C++, Python & Java 
+- C++ for Embedded & Automotive target platforms (Linux based & MCUs)
+- C Programming for Linux applications, Kernel programming & Embedded Applications
 - Effective use of GNU tools for native & cross development
 - Working with Embedded Linux - cross building kernel & applications,device tree bindings
 - Customization of Linux Kernel, Writing Device Drivers & Debugging.
-- Linux Internals - System Programming
+- Linux Internals - System Programming (Threading & IPC)
 - Real Time Operating Systems - Xenomai, FreeRTOS
+- Qt programming (C++ & QML) for Embedded Systems, Automotive & IOT solutions.
 - C++ for embedded applications(for Linux & MCU targets)
+- mbed.org APIs for firmware development with platformio IDE
+- SocketCAN, canbus support on Linux
 - Open source solutions for IOT development(across the layers)
-- IOT Communication - MQTT,CoAP,HTTP REST, Websockets protocols
-- IOT Gateway solutions - NodeRED,Eclipse Kura
 - Node.js for Embedded Systems,IOT programming
-- Prototyping with NodeRed for Embedded Systems, IOT solutions,writing custom Addons
-- InfluxData TICK stack for Time Series Data Management
+- IOT Communication - MQTT,CoAP,HTTP REST, Websockets protocols
+- IOT Gateway solutions - NodeRED,Eclipse Kura etc.
+
+### Education
+|S.No   | Qulification  |Completion | Aggregate  |University/Board  |
+|---|---|---|---|---|
+| 1 | B.E in IT  | 2005  | 75.20%  | Visveswaraiah Technological University Belgaum   |
+| 2  | Intermediate(+2)  | 2001  | 89.80%  | Board of Intermediate, Andhra Pradesh  |
+| 3  | SSC (10th)  | 1999  | 88.19%  | SSC Board, Andhra Pradesh  |
+
+### Professional Experience
+
+|S.No   | Designation/Role  |Department | Organization  | Period  |
+|---|---|---|---|---|
+| 1 | Educator | ECoDe  | KPIT, Pune  | Oct 2017 - Till date  |
+| 2  | Core Faculty  | ACTS  | CDAC, Pune  | Jan 2011 - Sep 2017  |
+| 3  | Asst Professor | CSE Dept  | NBKRIST, Vidyanagar  | July 2007 – Jan 2011  |
+| 4  | Software Engineer | Terminal Division Group  |Sasken Communication Technologies,Bangalore  | July 2005 – Sep 2006 |
+| 5  | NOSIP Intern | Linux Division Group  | Novell Inc, Bangalore  | Feb 2005 – June 2005  |
 
 #### Additional:-
 - Android USB Framework - AOA Protocol,ADK support, Host APIs
-- SocketCAN, canbus support on Linux
+- Prototyping with NodeRed for Embedded Systems, IOT solutions,writing custom Addons
+- InfluxData TICK stack for Time Series Data Management
 - SiteWhere,An Open Platform for Device connectivity and data management.
-- Qt programming for Embedded Systems & IOT, eg:- RaspberryPi, Sensors, Charting etc. (working on)
-- mbed.org APIs for firmware development with platformio IDE(working on)
 - Zephyr OS(incubating phase)
 - StrongLoop LoopBack.io - Building RESTful APIs for Mobile & Web Applications(incubating phase)
 
