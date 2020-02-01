@@ -1,14 +1,14 @@
 > Please [click here](index.md) for section wise profile
 
 ### About me
-- Principal Educator, ECoDe, KPIT Technologies
+- Principal Educator, ECoDe, KPIT Technologies Ltd, Pune.
 - 15 years of industrial & academic experience in Embedded Systems, IOT & Automotive domains.
 - Guest Author for Open Source For You(OSFY) Magazine, EFY Group
 - Invited speaker for Open Source, Embedded & IOT Conferences
 
-### Profile Summary
+### Profile Highlights
 
-#### Skill Highlights
+#### Skill Summary
 * Passionate in Teaching with effective and logical methods.
 * Strong Technical Skills in C,C++, Linux System Programming, Kernel programming
 Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
@@ -19,18 +19,24 @@ Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
 * Test Driven Development(TDD) in C/C++/Java/Python edition (In Progress)
 * Embedded Android(AOSP) - Internals & System Programming, in view of Automation (In Progress)
 * Yocto Linux for Embedded/Automotive solutions (In Progress)
-* Open source software for learning needs - LMS/CMS, Auto Grading, Remote Hands-on (In Progress)
+* Open source software for learning needs - LMS/CMS, Auto Grading of assessment solutions, Web based coding platforms, Remote Hands-on (In Progress)
 * Code Refactoring techniques & Legacy code migration (In wishlist)
 * Automotive Grade Linux (In wishlist)
+* Quick upskill and readiness in associated/passionate technologies (In General)
+
+#### Key Roles
+* Educator & Learning facilitator for @ KPIT
+* Technical consultant for talent hiring , as part of startegic partnership with premier OEMs @ KPIT
+* 
 
 ### Education & Experience
 
 #### Education
-|S.No | Qualification |Completion | Aggregate  |University  |
-|---|---|---|---|---|
-| 1 | B.E in IT  | 2005  | 75.20  | Visveswaraiah Technological University, Belgaum |
-| 2  | Intermediate  | 2001  | 89.80  | Board of Intermediate, Andhra Pradesh  |
-| 3  | SSC   | 1999  | 88.19  | SSC Board, Andhra Pradesh  |
+|S.No | Qualification   | Completion | Aggregate  | Board/University  |
+|---  |  ---            | ---        | ---        | --- |
+| 1   |  B.E in IT      | 2005       | 75.20      | Visveswaraiah Technological University, Belgaum |
+| 2   |  Intermediate   | 2001       | 89.80      | Board of Intermediate, Andhra Pradesh  |
+| 3   |  SSC            | 1999       | 88.19      | SSC Board, Andhra Pradesh  |
 
 #### Professional Experience
 
