@@ -71,54 +71,92 @@ Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
 | 4  | Software Engineer | Terminal Division Group  |Sasken Communication Technologies,Bangalore  | July 2005 – Sep 2006 |
 | 5  | NOSIP Intern | Linux Division Group  | Novell Inc, Bangalore  | Feb 2005 – June 2005  |
 
-### Knowledge Sharing
+### Work Experience
+
+#### In KPIT
+* Trainer - Competency Development & Learning facilitator for Freshers & experienced teams.
+* Digitization - Developed e-learning content for key modules for Fresher training & continuous education.
+* Effective collobaration with Architects & SMEs for continuous enhancement of training models.
+* Technical support for Lateral hiring - played a vital role in setting up assessment framework & evaluation as part of strategic partnership with major OEM.
+* Technical SPOC for project specific training requests from various project teams at run time, 
+* Mentor - Internal supervisor for PG level projects.
+* Design & evaluation support for assessments
+
+#### In CDAC
+* Core faculty for embedded systems & IOT domains
+* Mentor for PG Diploma & MTech projects
+* Design & review of syllabus for PG-Diploma courses
+* Design & evaluation support for assessments
+
+### Evangelist - Knowledge Sharing
 
 #### My Talks (Delivered in recent conferences)
-- Greeting the external hardware from Android, OSI Days@Nimhans Convention Centre,Bangalore October 2014
 
-- Android Open Accessory Protocol - Greet the external hardware from Android  @ GNUnify 2015, Jointly organized by SICSR & PLUG, Pune.
+- Eclipse Kura - Java/OSGi based edge framework, Open Source India 2018, Nimhans Convention Centre, Bengaluru.
 
-- Getting started with IOT development using Fedora on ARM @ FudCon 2015, MIT Pune
+- Seamless Device Connectivity with Iotivity and Zephyr OS, India Electronics Week 2018, IOTShow.in, KTPO, Bengaluru
 
-- Using NodeRed for Rapid Development of IOT solutions @ ESTF.in 2015, Nimhans Convention Centre,Bangalore
+- QtQML application for connected Automotive Solutions , India Electronics Week 2018, IotShow.in, KTPO, Bengaluru
 
-- Kickstarting IOT using NodeRED @ GNUnify 2016, Jointly organized by SICSR & PLUG, Pune along with Rohit Khanna
+- Open Source Softwares for Gateway Design and Edge Computing,Open Source India 2017, Nimhans Convention Centre,Bengaluru. 
 
-- Understanding IOT Protocols using Wireshark @ Open Source India 2016, Nimhans Convention Centre, Bengaluru.
+- Qt Apps on RaspbeeryPi for IMU Sensors @ iotshow.in part of India Electronics Week 2017, BIEC Bengaluru.
+
+- Modelling IOT Gateway - A CanBus Example @ iotshow.in part of India Electronics Week 2017, BIEC Bengaluru.
 
 - InfluxDb - Time Series Database for IOT Needs @ Open Source India 2016, Nimhans Convention Centre, Bengaluru.
 
-- Deep Secrets of C/C++ Development @ Faculty Development Programme on Advanced Computing & Application Development,February 2017 jointly organized by CDAC ACTS & Intel,Pune
+- Understanding IOT Protocols using Wireshark @ Open Source India 2016, Nimhans Convention Centre, Bengaluru.
 
-- Modelling IOT Gateway - A CanBus Example @ iotshow.in part of India Electronics Week 2017, BIEC Bengaluru, March 2017 along with  Shubham Srivastava.
+- Using NodeRed for Rapid Development of IOT solutions @ ESTF.in 2015, Nimhans Convention Centre,Bangalore
 
-- Qt Apps on RaspbeeryPi for IMU Sensors @ iotshow.in part of India Electronics Week 2017, BIEC Bengaluru, March 2017, along with Rishabh Hardas.
+- Getting started with IOT development using Fedora on ARM @ FudCon 2015, MIT Pune
 
+- Android Open Accessory Protocol - Greet the external hardware from Android  @ GNUnify 2015, Jointly organized by SICSR & PLUG, Pune.
+
+- Greeting the external hardware from Android, OSI Days@Nimhans Convention Centre,Bangalore October 2014
+
+- Kickstarting IOT using NodeRED @ GNUnify 2016, Jointly organized by SICSR & PLUG, Pune 
+
+#### Some past talks
 
 #### My Articles (Published in recent years)
 
-- How to Cross Compile the Linux Kernel with Device Tree Support, Open Source For You, September 2014
+- The Role of Open Source Software in Engineering Education, Open Source For You, February 2020
 
-- What’s the Android Open Accessory Protocol All About, Open Source For You, October 2014
+- You Need Not Be A Developer To Contribute To Open Source, Interview published in Open Source For You, February 2019 [Link](https://opensourceforu.com/2019/03/you-need-not-be-a-developer-to-contribute-to-open-source/)
 
-- CoAP:Get Started with IOT Protocols, Open Source For You, August 2016
+- Getting Started with CAN Networking in Linux, Open Source For You, January 2019
 
-- MQTT:Get Started with IOT Protocols, Open Source For You, October 2016
+- What's new in C++11 & C++14, Open Source For You, October 2018
 
-- GNU Tools that help you for C/C++ Development, Open Source For You, November 2016
+- Developing ARM Targets Using GNU MCU Eclipse, Open Source For You, November 2017
 
-- Open source software that help for your IOT development, Open Source For You, February 2017 & Republished in Electronics For You, June 2017
+- Snappy Ubuntu Core for Embedded and IoT Devices, Open Source For You, October 2017
 
-- Managing Timeseries Data using InfluxData, Open Source For You, April 2017
+- Building REST APIs with LoopBack framework, Open Source For You, July 2017
 
-- Qt Programming for HTTP REST Clients, Open Source For You, May 2017
+- Writing Custom Add-ons for Node-RED, Open Source For You, June 2017 
 
 - SiteWhere : An Open Platform for Conencted Devices, Open Source For You, June 2017
 
-- Writing Custom Add-ons for Node-RED, Open Source For You, June 2017
+- Qt Programming for HTTP REST Clients, Open Source For You, May 2017
 
+- Managing Timeseries Data using InfluxData, Open Source For You, April 2017
 
-Some of these articles are available for public access @ opensourceforu.com/author/rajesh-sola
+- Open source software that help for your IOT development, Open Source For You, February 2017 & Republished in Electronics For You, June 2017
+
+- GNU Tools that help you for C/C++ Development, Open Source For You, November 2016
+
+- MQTT:Get Started with IOT Protocols, Open Source For You, October 2016
+
+- CoAP:Get Started with IOT Protocols, Open Source For You, August 2016
+
+- What’s the Android Open Accessory Protocol All About, Open Source For You, October 2014
+
+- How to Cross Compile the Linux Kernel with Device Tree Support, Open Source For You, September 2014
+
+Some of these articles are available for public access @ [opensourceforu.com/author/rajesh-sola](https://opensourceforu.com/author/rajesh-sola)
 
 Articles published in Linux For You , In past:-
 
@@ -132,17 +170,11 @@ Articles published in Linux For You , In past:-
 
 - Automate Your Work with OpenOffice.org Macros, May  2009 
 
-### Current Work
-
-- Eclipse Kura bundles
-
-- Qt Apps for IMU Sensors, SenseHAT on RaspberryPi
-
 ### Contact me
 
-https://in.linkedin.com/in/rajeshsola
+* Linkedin:- https://in.linkedin.com/in/rajeshsola
 
-https://twitter.com/rajeshsola 
+* mailto:- rajeshsola@gmail.com
 
-mailto:- rajeshsola@gmail.com
+* phone:- 8308311775
 
