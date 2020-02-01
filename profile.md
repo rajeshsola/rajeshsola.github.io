@@ -15,28 +15,28 @@ Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
 * Strong proficiency in modern C++ standards - C++11 & 14 (17 is in progress)
 * Evangelist in Open Source trends in Embedded Systems, Automotive Segment, IOT Solutions.
 
-#### Potential Areas of Contribution (In progress/wishlist)
-* Test Driven Development(TDD) in C/C++/Java/Python edition (In Progress)
-* Embedded Android(AOSP) - Internals & System Programming, in view of Automation (In Progress)
+#### Potential Areas / Future Scope (In progress/wishlist)
+* Test Driven Development(TDD) in choice of language - C/C++/Java/Python edition (In Progress)
+* Embedded Android(AOSP) - Internals & System Programming, Android Automative (In Progress)
 * Yocto Linux for Embedded/Automotive solutions (In Progress)
-* Open source software for learning needs - LMS/CMS, Auto Grading of assessment solutions, Web based coding platforms, Remote Hands-on (In Progress)
+* Open source software for learning needs - LMS/CMS, Auto Grading, Web based Coding Playground, Remote Hands-on (In Progress)
 * Code Refactoring techniques & Legacy code migration (In wishlist)
 * Automotive Grade Linux (In wishlist)
 * Quick upskill and readiness in associated/passionate technologies (In General)
 
 #### Key Roles
 * Educator & Learning facilitator for @ KPIT
-* Technical consultant for talent hiring , as part of startegic partnership with premier OEMs @ KPIT
-* 
+* Technical consultant for talent hiring , as part of startegic partnership with premier OEMs @ KPIT 
 
 ### Education & Experience
 
 #### Education
-|S.No | Qualification   | Completion | Aggregate  | Board/University  |
-|---  |  ---            | ---        | ---        | --- |
-| 1   |  B.E in IT      | 2005       | 75.20      | Visveswaraiah Technological University, Belgaum |
-| 2   |  Intermediate   | 2001       | 89.80      | Board of Intermediate, Andhra Pradesh  |
-| 3   |  SSC            | 1999       | 88.19      | SSC Board, Andhra Pradesh  |
+
+| S.No | Qualification | Year of Completion | Aggregate | Board/University                      |
+|------|---------------|--------------------|-----------|---------------------------------------|
+| 1    | B.E in IT     | 2005               | 75.20     | VTU, Belgaum                          |
+| 2    | Intermediate  | 2001               | 89.80     | Board of Intermediate, Andhra Pradesh |
+| 3    | S.S.C         | 199                | 88.19     | SSC Board, Andhra Pradesh             |
 
 #### Professional Experience
 
