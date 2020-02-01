@@ -16,11 +16,11 @@
 
 #### Potential Areas / Future Scope (In progress/wishlist)
 * Test Driven Development(TDD) in choice of language - C/C++/Java/Python edition (In Progress)
-* Embedded Android(AOSP) - Internals & System Programming, Android Automotive (In Progress)
-* Open source software for learning needs - LMS/CMS, Auto Grading, Web based Coding Playground, Remote Hands-on (In Progress)
+* Embedded Android(AOSP) - Internals & System Programming, Android Automotive  for customized Infotainment solutions (In Progress)
+* Open source software for learning needs - LMS/CMS, Auto Grading, Web based Coding Playground & Visualization, Remote Hands-on (In Progress/wishlist)
 * Yocto Linux for Embedded/Automotive solutions (In wishlist, with basic familiarity)
 * Code Refactoring techniques & Legacy code migration (In wishlist)
-* Develop trainings on Behavior Driven Development(BDD) in known languages.
+* Behavior Driven Development(BDD)/Specification by Example(SBE) in known languages (In wishlist)
 * Automotive Grade Linux (In wishlist)
 * Quick upskill and readiness in associated/passionate technologies (In General)
 
@@ -69,22 +69,24 @@
 #### Automotive/Infotainment Related
 - Linux baseline for IVI platforms,applied tools for development & anatomy
 - Mobility solutions with QtQML APIs
-- Automotive Middleware solutions - D-Bus, SOME/IP (moderate skills)
+- Overview of GENIVI components (moderate level)
+- Automotive Middleware solutions - D-Bus, SOME/IP (moderate level)
 - Robot Operating System (little knowledge)
 
-#### Working with MCUs
+#### Working with constrained devices (MCUs)
 - Host Tools & IDE support for firmware development (MCU Targets)
 - mbed.org APIs for firmware development with platformio IDE
 - Embeddded RTOS - FreeRTOS, Zephyr OS
+- Overview of STM32F4 series & basic APIs.
 
 #### Other Programming & IT Related
+- Working with GIT
 - Core Java (Moderate level)
 - Python (Moderate level)
-- Working with GIT.
-- xUnit frameworks & mocking in C/C++, Java & Python
-- CI/CD plugins for C/C++ in Jenkins & Gitlab
-- Basic database knowledge (MySQL/Postgres)
-- Basic Javascript knowledge
+- xUnit & mocking frameworks in C/C++, Java & Python.
+- CI/CD plugins for C/C++ in Jenkins & Gitlab.
+- Basic familiarity with SQL & Database connectivity from coding (SQLITE/MySQL/Postgres).
+- Basic familiarity with Javascript (ES6).
 
 #### IOT/Connected Solutions
 - IOT Awareness/Bootstrapping (content & delivery)
