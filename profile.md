@@ -34,9 +34,9 @@ Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
 
 | S.No | Qualification | Year of Completion | Aggregate | Board/University                      |
 |------|---------------|--------------------|-----------|---------------------------------------|
-| 1    | B.E in IT     | 2005               | 75.20     | VTU, Belgaum                          |
-| 2    | Intermediate  | 2001               | 89.80     | Board of Intermediate, Andhra Pradesh |
-| 3    | S.S.C         | 199                | 88.19     | SSC Board, Andhra Pradesh             |
+| 1    | B.E in IT        | 2005               | 75.20     | VTU, Belgaum                          |
+| 2    | Intermediate(+2) | 2001               | 89.80     | Board of Intermediate, Andhra Pradesh |
+| 3    | S.S.C (10th)     | 1999               | 88.19     | SSC Board, Andhra Pradesh             |
 
 #### Professional Experience
 
