@@ -10,9 +10,9 @@
 
 #### Skill Summary
 * Passionate in Teaching with effective and logical methods.
-* Strong Technical Skills in C,C++, Linux System Programming, Kernel programming
-Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
-* Strong proficiency in modern C++ standards - C++11 & 14 (17 is in progress)
+* Strong Technical Skills in C/C++, Linux System Programming, Kernel programming
+  Embedded Linux,QtQML Applications.
+* Strong proficiency in modern C++ standards - C++11 & 14 (17 is in progress) with emphasis on clean coding requirements.
 * Evangelist in Open Source trends in Embedded Systems, Automotive Segment, IOT Solutions.
 
 #### Potential Areas / Future Scope (In progress/wishlist)
@@ -25,8 +25,9 @@ Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
 * Quick upskill and readiness in associated/passionate technologies (In General)
 
 #### Key Roles
-* Educator & Learning facilitator for @ KPIT
-* Technical consultant for talent hiring , as part of startegic partnership with premier OEMs @ KPIT 
+* Educator & Learning facilitator to enhance efficacy in training models.
+* Technical consultant for talent hiring , as part of startegic partnership with premier OEMs.Support through design of customized assessments & evaluation matrix/guidelines.
+* Development of niche digital content to cater learning needs of various stakeholders.
 
 ### Education & Experience
 
@@ -51,28 +52,32 @@ Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
 ### Skills 
 
 #### Core Expertise
-- Proficiency in Computational & Programming skills - C, C++, Python & Java 
+- Proficiency in Computational & Programming skills - C, C++, Python & Java
 - C++ for Embedded & Automotive target platforms (Linux based & MCUs)
 - C Programming for Linux applications, Kernel programming & Embedded Applications
+- Compliance with clean coding guidelines - standards & validators.
+- Qt programming (C++ & QML) for Embedded Systems, Automotive & IOT solutions.
+
+#### Embedded Linux
 - Effective use of GNU tools for native & cross development
 - Working with Embedded Linux - cross building kernel & applications,device tree bindings
 - Customization of Linux Kernel, Writing Device Drivers & Debugging.
 - Linux Internals - System Programming (Threading & IPC)
 - Real Time Operating Systems - Xenomai, FreeRTOS
-- Qt programming (C++ & QML) for Embedded Systems, Automotive & IOT solutions.
-- C++ for embedded applications(for Linux & MCU targets)
-
-#### Embedded Systems
-- mbed.org APIs for firmware development with platformio IDE
 - SocketCAN, canbus support on Linux
-- Zephyr OS
+
+#### Working with MCUs
+- Host Tools & IDE support for firmware development (MCU Targets)
+- mbed.org APIs for firmware development with platformio IDE
+- Embeddded RTOS - FreeRTOS, Zephyr OS
 
 #### IOT Related
 - Open source solutions for IOT development(across the layers)
-- Node.js for Embedded Systems,IOT programming
 - IOT Communication - MQTT,CoAP,HTTP REST, Websockets protocols
 - IOT Gateway solutions - NodeRED,Eclipse Kura etc.
+- IOT Platforms - connectivity & offerings
 - Prototyping with NodeRed for Embedded Systems, IOT solutions,writing custom Addons
+- Node.js for Embedded Systems,IOT programming
 
 #### Additional:-
 - Android USB Framework - AOA Protocol, ADK support, Host APIs
@@ -88,7 +93,7 @@ Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
 
 #### In KPIT
 * Trainer & Learning facilitator for Freshers & Experienced teams, developed & delivered various modules to **enhance fresher efficacy models & competency levels of working teams** as per project/client expectations.
-* Technical support for Lateral hiring - played a critical role in **setting up assessment framework & evaluation support** as part of **strategic partnership with premier OEMs**.This helped in reducing some ground level problems like shortlisting right candidates with coding experience for further rounds, thus optimizing interview panel bandwidth.
+* Technical support for Lateral hiring - played a critical role in **setting up assessment framework & evaluation support** as part of **strategic partnership with premier OEMs**.This helped in solving some ground level problems like shortlisting right candidates with coding experience for further rounds, thus optimizing interview panel bandwidth.
 * Digitization of learning resources- Developed **e-learning content** for various modules required for Fresher training & continuous education, to bring a pradigm shift towards **Flip & Blended learning modes**.
 * Effective collobaration with Architects & SMEs for **continuous enhancement of training models**.
 * Technical SPOC for **project specific training requests** from various teams at run time, advisory support with effective  **customized training plans** as per available competency & resources.
@@ -112,11 +117,12 @@ Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
   Sensors, remote sensors using qmqtt module.(Desmo code for IoTShow.in,EFY Conference 2017).
 * Advisory support for **effective hardware resources**
 
-#### Common Roles & contributions 
+#### Common Roles & Contributions 
 * **Co Delivery support** for Master's degree modules.
-* Effective team bonding & advisory support to resolve some **critical constaints**.
+* Effective team bonding & advisory support to resolve some **critical constaints** across the teams.
 * **Branding support** for the organization through knowledge sharing with community  
 * Added support for branding organizational updates & initiatives,as a **Active professional network** user.
+* Balanced working style to **fulfil both passion & business demands**.
 
 #### Some themes in student/trainee project mentoring (CDAC & KPIT)
 * Custom Drivers, Network connectivity in Zephyr OS.
@@ -155,47 +161,28 @@ Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
 #### Talks delivered in recent conferences.
 
 - Eclipse Kura - Java/OSGi based edge framework, Open Source India 2018, Nimhans Convention Centre, Bengaluru.
-
 - Seamless Device Connectivity with Iotivity and Zephyr OS, India Electronics Week 2018, IOTShow.in, KTPO, Bengaluru
-
 - QtQML application for connected Automotive Solutions , India Electronics Week 2018, IotShow.in, KTPO, Bengaluru
-
 - Open Source Softwares for Gateway Design and Edge Computing,Open Source India 2017, Nimhans Convention Centre,Bengaluru. 
-
 - Qt Apps on RaspbeeryPi for IMU Sensors @ iotshow.in part of India Electronics Week 2017, BIEC Bengaluru.
-
 - Modelling IOT Gateway - A CanBus Example @ iotshow.in part of India Electronics Week 2017, BIEC Bengaluru.
-
 - InfluxDb - Time Series Database for IOT Needs @ Open Source India 2016, Nimhans Convention Centre, Bengaluru.
-
 - Understanding IOT Protocols using Wireshark @ Open Source India 2016, Nimhans Convention Centre, Bengaluru.
-
 - Using NodeRed for Rapid Development of IOT solutions @ ESTF.in 2015, Nimhans Convention Centre,Bangalore
-
 - Getting started with IOT development using Fedora on ARM @ FudCon 2015, MIT Pune
-
 - Android Open Accessory Protocol - Greet the external hardware from Android  @ GNUnify 2015, Jointly organized by SICSR & PLUG, Pune.
-
 - Greeting the external hardware from Android, OSI Days@Nimhans Convention Centre,Bangalore October 2014
-
 - Kickstarting IOT using NodeRED @ GNUnify 2016, Jointly organized by SICSR & PLUG, Pune 
 
 #### Some past talks
 
 - Create cute mobile apps with Nokia Qt SDK – GNUnify 2013,,SICSR,Pune.
-
 - OpenMoko : Free Your Phone: GNUnify 2011,SICSR,Pune.
-
 - Go Green – Save Power : FOSS.in 2009,Bangalore (Qt interface for powertop).
-
 - Programming with OpenOffice.org : GNUnify 2009, SICSR,Pune.
-
 - Contributing to OpenOffice.org, FOSSConf 2008, Chennai.
-
 - VBA Macros – The Fun Bits, FOSS.in 2008, Bangalore.
-
 - OpenOffce.org Macros – FOSSMeet 2008, NITC,Calicut.
-
 - VBA Macros – Interoperability, Ooo project day, FOSS.in 2007, Bangalore.
 
 Slides of some of these sessions are hosted in my linked in profile and [slideshare.net/rajeshsola](slideshare.net/rajeshsola)
@@ -203,37 +190,21 @@ Slides of some of these sessions are hosted in my linked in profile and [slidesh
 #### Articles published in recent years
 
 - The Role of Open Source Software in Engineering Education, Open Source For You, February 2020
-
 - You Need Not Be A Developer To Contribute To Open Source, Interview published in Open Source For You, February 2019 [Link](https://opensourceforu.com/2019/03/you-need-not-be-a-developer-to-contribute-to-open-source/)
-
 - Getting Started with CAN Networking in Linux, Open Source For You, January 2019
-
 - What's new in C++11 & C++14, Open Source For You, October 2018
-
 - Developing ARM Targets Using GNU MCU Eclipse, Open Source For You, November 2017
-
 - Snappy Ubuntu Core for Embedded and IoT Devices, Open Source For You, October 2017
-
 - Building REST APIs with LoopBack framework, Open Source For You, July 2017
-
 - Writing Custom Add-ons for Node-RED, Open Source For You, June 2017 
-
 - SiteWhere : An Open Platform for Conencted Devices, Open Source For You, June 2017
-
 - Qt Programming for HTTP REST Clients, Open Source For You, May 2017
-
 - Managing Timeseries Data using InfluxData, Open Source For You, April 2017
-
 - Open source software that help for your IOT development, Open Source For You, February 2017 & Republished in Electronics For You, June 2017
-
 - GNU Tools that help you for C/C++ Development, Open Source For You, November 2016
-
 - MQTT:Get Started with IOT Protocols, Open Source For You, October 2016
-
 - CoAP:Get Started with IOT Protocols, Open Source For You, August 2016
-
 - What’s the Android Open Accessory Protocol All About, Open Source For You, October 2014
-
 - How to Cross Compile the Linux Kernel with Device Tree Support, Open Source For You, September 2014
 
 Some of these articles are available for public access @ [opensourceforu.com/author/rajesh-sola](https://opensourceforu.com/author/rajesh-sola)
@@ -241,13 +212,9 @@ Some of these articles are available for public access @ [opensourceforu.com/aut
 #### Past Articles published in Linux For You Magazine:-
 
 - Create Cute Apps with Qt : Part 1 & Part2, November 2009 & December 2009
-
 - Play With Your Partitions, September 2009
-
 - VBA Macro Interoperability in OpenOffice.org, August 2009
-
 - Enrich OpenOffice.org with Extensions, Part 1 & Part2, July 2009 & August 2009
-
 - Automate Your Work with OpenOffice.org Macros, May  2009 
 
 ### Contact Details
