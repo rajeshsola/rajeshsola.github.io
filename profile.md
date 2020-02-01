@@ -39,9 +39,9 @@ Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
 - IOT Gateway solutions - NodeRED,Eclipse Kura etc.
 
 ### Education
-|S.No | Qualification |Completion | Aggregate  |University/Board  |
+|S.No | Qualification |Completion | Aggregate  |University  |
 |---|---|---|---|---|
-| 1 | B.E in IT  | 2005  | 75.20%  | Visveswaraiah Technological University Belgaum   |
+| 1 | B.E in IT  | 2005  | 75.20%  | Visveswaraiah Technological University, Belgaum   |
 | 2  | Intermediate  | 2001  | 89.80%  | Board of Intermediate, Andhra Pradesh  |
 | 3  | SSC   | 1999  | 88.19%  | SSC Board, Andhra Pradesh  |
 
