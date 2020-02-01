@@ -120,7 +120,25 @@ Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
 
 #### Some past talks
 
-#### My Articles (Published in recent years)
+- Create cute mobile apps with Nokia Qt SDK – GNUnify 2013,,SICSR,Pune.
+
+- OpenMoko : Free Your Phone: GNUnify 2011,SICSR,Pune.
+
+- Go Green – Save Power : FOSS.in 2009,Bangalore (Qt interface for powertop).
+
+- Programming with OpenOffice.org : GNUnify 2009, SICSR,Pune.
+
+- Contributing to OpenOffice.org, FOSSConf 2008, Chennai.
+
+- VBA Macros – The Fun Bits, FOSS.in 2008, Bangalore.
+
+- OpenOffce.org Macros – FOSSMeet 2008, NITC,Calicut.
+
+- VBA Macros – Interoperability, Ooo project day, FOSS.in 2007, Bangalore.
+
+Slides of some of these sessions are hosted in my linked in profile and slideshare.net/rajeshsola
+
+#### My Articles - Published in recent years
 
 - The Role of Open Source Software in Engineering Education, Open Source For You, February 2020
 
@@ -158,7 +176,7 @@ Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
 
 Some of these articles are available for public access @ [opensourceforu.com/author/rajesh-sola](https://opensourceforu.com/author/rajesh-sola)
 
-Articles published in Linux For You , In past:-
+#### Articles published in Linux For You , In past:-
 
 - Create Cute Apps with Qt : Part 1 & Part2, November 2009 & December 2009
 
@@ -170,7 +188,9 @@ Articles published in Linux For You , In past:-
 
 - Automate Your Work with OpenOffice.org Macros, May  2009 
 
-### Contact me
+### Contact Details
+
+#### Ping me @
 
 * Linkedin:- [linkedin.com/in/rajeshsola](https://in.linkedin.com/in/rajeshsola)
 
