@@ -4,14 +4,16 @@
 - Guest Author for Open Source For You(OSFY) Magazine, EFY Group
 - Invited speaker for Open Source, Embedded & IOT Conferences
 
-### Skill Highlights
+### Skills
+
+#### Skill Highlights
 * Passionate in Teaching with effective and logical methods.
 * Strong Technical Skills in C,C++, Linux System Programming, Kernel programming
 Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
 * Strong proficiency in modern C++ standards - C++11 & 14 (17 is in progress)
 * Evangelist in Open Source trends in Embedded Systems, Automotive Segment, IOT Solutions.
 
-### Potential Areas of Contribution (In progress/wishlist)
+#### Potential Areas of Contribution (In progress/wishlist)
 * Test Driven Development(TDD) in C/C++/Java/Python edition (In Progress)
 * Embedded Android(AOSP) - Internals & System Programming, in view of Automation (In Progress)
 * Yocto Linux for Embedded/Automotive solutions (In Progress)
@@ -38,23 +40,6 @@ Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
 - IOT Communication - MQTT,CoAP,HTTP REST, Websockets protocols
 - IOT Gateway solutions - NodeRED,Eclipse Kura etc.
 
-### Education
-|S.No | Qualification |Completion | Aggregate  |University  |
-|---|---|---|---|---|
-| 1 | B.E in IT  | 2005  | 75.20  | Visveswaraiah Technological University, Belgaum |
-| 2  | Intermediate  | 2001  | 89.80  | Board of Intermediate, Andhra Pradesh  |
-| 3  | SSC   | 1999  | 88.19  | SSC Board, Andhra Pradesh  |
-
-### Professional Experience
-
-|S.No   | Designation/Role  |Department | Organization  | Period  |
-|---|---|---|---|---|
-| 1 | Educator | ECoDe  | KPIT, Pune  | Oct 2017 - Till date  |
-| 2  | Core Faculty  | ACTS  | CDAC, Pune  | Jan 2011 - Sep 2017  |
-| 3  | Asst Professor | CSE Dept  | NBKRIST, Vidyanagar  | July 2007 – Jan 2011  |
-| 4  | Software Engineer | Terminal Division Group  |Sasken Communication Technologies,Bangalore  | July 2005 – Sep 2006 |
-| 5  | NOSIP Intern | Linux Division Group  | Novell Inc, Bangalore  | Feb 2005 – June 2005  |
-
 #### Additional:-
 - Android USB Framework - AOA Protocol,ADK support, Host APIs
 - Prototyping with NodeRed for Embedded Systems, IOT solutions,writing custom Addons
@@ -67,7 +52,28 @@ Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
 - OpenOffice.org/LibreOffice development
 - VBA Interoperability in OpenOffice.org/LibreOffice
 
-### My Talks (Delivered in recent conferences)
+### Education & Experience
+
+#### Education
+|S.No | Qualification |Completion | Aggregate  |University  |
+|---|---|---|---|---|
+| 1 | B.E in IT  | 2005  | 75.20  | Visveswaraiah Technological University, Belgaum |
+| 2  | Intermediate  | 2001  | 89.80  | Board of Intermediate, Andhra Pradesh  |
+| 3  | SSC   | 1999  | 88.19  | SSC Board, Andhra Pradesh  |
+
+#### Professional Experience
+
+|S.No   | Designation/Role  |Department | Organization  | Period  |
+|---|---|---|---|---|
+| 1 | Educator | ECoDe  | KPIT, Pune  | Oct 2017 - Till date  |
+| 2  | Core Faculty  | ACTS  | CDAC, Pune  | Jan 2011 - Sep 2017  |
+| 3  | Asst Professor | CSE Dept  | NBKRIST, Vidyanagar  | July 2007 – Jan 2011  |
+| 4  | Software Engineer | Terminal Division Group  |Sasken Communication Technologies,Bangalore  | July 2005 – Sep 2006 |
+| 5  | NOSIP Intern | Linux Division Group  | Novell Inc, Bangalore  | Feb 2005 – June 2005  |
+
+### Knowledge Sharing
+
+#### My Talks (Delivered in recent conferences)
 - Greeting the external hardware from Android, OSI Days@Nimhans Convention Centre,Bangalore October 2014
 
 - Android Open Accessory Protocol - Greet the external hardware from Android  @ GNUnify 2015, Jointly organized by SICSR & PLUG, Pune.
@@ -89,8 +95,7 @@ Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
 - Qt Apps on RaspbeeryPi for IMU Sensors @ iotshow.in part of India Electronics Week 2017, BIEC Bengaluru, March 2017, along with Rishabh Hardas.
 
 
-
-### My Articles (Published in recent years)
+#### My Articles (Published in recent years)
 
 - How to Cross Compile the Linux Kernel with Device Tree Support, Open Source For You, September 2014
 
