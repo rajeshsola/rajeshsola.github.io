@@ -1,6 +1,6 @@
 ### About me
 - Principal Educator, ECoDe, KPIT Technologies
-- 15 years of industry-academia experience with expertise on Embedded Systems, Automotive & IOT
+- 15 years of industrial & academic experience in Embedded Systems, IOT & Automotive domains.
 - Guest Author for Open Source For You(OSFY) Magazine, EFY Group
 - Invited speaker for Open Source, Embedded & IOT Conferences
 
@@ -12,11 +12,13 @@ Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
 * Evangelist in Open Source trends in Embedded Systems, Automotive Segment, IOT Solutions.
 
 ### Potential Areas of Contribution (In progress/wishlist)
-* Test Driven Development in C/C++/Java/Python edition (In Progress)
+* Test Driven Development(TDD) in C/C++/Java/Python edition (In Progress)
 * Embedded Android(AOSP) - Internals & System Programming, in view of Automation (In Progress)
 * Yocto Linux for Embedded/Automotive solutions (In Progress)
 * Open source software for learning needs - LMS/CMS, Auto Grading, Remote Hands-on (In Progress)
+* Code Refactoring techniques & Legacy code migration (In wishlist)
 * Automotive Grade Linux (In wishlist)
+
 
 #### Core Expertise:-
 - Proficiency in Computational & Programming skills - C, C++, Python & Java 
@@ -37,11 +39,11 @@ Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
 - IOT Gateway solutions - NodeRED,Eclipse Kura etc.
 
 ### Education
-|S.No   | Qulification  |Completion | Aggregate  |University/Board  |
+|S.No | Qualification |Completion | Aggregate  |University/Board  |
 |---|---|---|---|---|
 | 1 | B.E in IT  | 2005  | 75.20%  | Visveswaraiah Technological University Belgaum   |
-| 2  | Intermediate(+2)  | 2001  | 89.80%  | Board of Intermediate, Andhra Pradesh  |
-| 3  | SSC (10th)  | 1999  | 88.19%  | SSC Board, Andhra Pradesh  |
+| 2  | Intermediate  | 2001  | 89.80%  | Board of Intermediate, Andhra Pradesh  |
+| 3  | SSC   | 1999  | 88.19%  | SSC Board, Andhra Pradesh  |
 
 ### Professional Experience
 
