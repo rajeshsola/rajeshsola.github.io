@@ -35,7 +35,7 @@ Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
 | S.No | Qualification | Year of Completion | Aggregate | Board/University                      |
 |------|---------------|--------------------|-----------|---------------------------------------|
 | 1    | B.E in IT        | 2005               | 75.20     | VTU, Belgaum                          |
-| 2    | Intermediate(+2) | 2001               | 89.80     | Board of Intermediate, Andhra Pradesh |
+| 2    | Intermediate(12th/+2) | 2001               | 89.80     | Board of Intermediate, Andhra Pradesh |
 | 3    | S.S.C (10th)     | 1999               | 88.19     | SSC Board, Andhra Pradesh             |
 
 #### Professional Experience
@@ -50,7 +50,7 @@ Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
 
 ### Skills 
 
-#### Core Expertise:-
+#### Core Expertise
 - Proficiency in Computational & Programming skills - C, C++, Python & Java 
 - C++ for Embedded & Automotive target platforms (Linux based & MCUs)
 - C Programming for Linux applications, Kernel programming & Embedded Applications
@@ -61,20 +61,24 @@ Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
 - Real Time Operating Systems - Xenomai, FreeRTOS
 - Qt programming (C++ & QML) for Embedded Systems, Automotive & IOT solutions.
 - C++ for embedded applications(for Linux & MCU targets)
+
+#### Embedded Systems
 - mbed.org APIs for firmware development with platformio IDE
 - SocketCAN, canbus support on Linux
+- Zephyr OS
+
+#### IOT Related
 - Open source solutions for IOT development(across the layers)
 - Node.js for Embedded Systems,IOT programming
 - IOT Communication - MQTT,CoAP,HTTP REST, Websockets protocols
 - IOT Gateway solutions - NodeRED,Eclipse Kura etc.
+- Prototyping with NodeRed for Embedded Systems, IOT solutions,writing custom Addons
 
 #### Additional:-
-- Android USB Framework - AOA Protocol,ADK support, Host APIs
-- Prototyping with NodeRed for Embedded Systems, IOT solutions,writing custom Addons
+- Android USB Framework - AOA Protocol, ADK support, Host APIs
 - InfluxData TICK stack for Time Series Data Management
-- SiteWhere,An Open Platform for Device connectivity and data management.
-- Zephyr OS(incubating phase)
-- StrongLoop LoopBack.io - Building RESTful APIs for Mobile & Web Applications(incubating phase)
+- Building REST APIs using Python Flask, StrongLoop LoopBack.io
+- Working with Docker containers
 
 #### In Past:-
 - OpenOffice.org/LibreOffice development
@@ -83,23 +87,72 @@ Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
 ### Roles & Project Contributions
 
 #### In KPIT
-* Trainer - Competency Development & Learning facilitator for Freshers & experienced teams.
-* Digitization - Developed e-learning content for key modules for Fresher training & continuous education.
-* Effective collobaration with Architects & SMEs for continuous enhancement of training models.
-* Technical support for Lateral hiring - played a vital role in setting up assessment framework & evaluation as part of strategic partnership with major OEM.
-* Technical SPOC for project specific training requests from various project teams at run time, 
-* Mentor - Internal supervisor for PG level projects.
-* Design & evaluation support for assessments
+* Trainer & Learning facilitator for Freshers & Experienced teams, developed & delivered various modules to **enhance fresher efficacy models & competency levels of working teams** as per project/client expectations.
+* Technical support for Lateral hiring - played a critical role in **setting up assessment framework & evaluation support** as part of **strategic partnership with premier OEMs**.This helped in reducing some ground level problems like shortlisting right candidates with coding experience for further rounds, thus optimizing interview panel bandwidth.
+* Digitization of learning resources- Developed **e-learning content** for various modules required for Fresher training & continuous education, to bring a pradigm shift towards **Flip & Blended learning modes**.
+* Effective collobaration with Architects & SMEs for **continuous enhancement of training models**.
+* Technical SPOC for **project specific training requests** from various teams at run time, advisory support with effective  **customized training plans** as per available competency & resources.
+* Internal supervisor for Master's degree projects, **mentoring on niche automotive trends**.
+* Design **customized assessments** as per target audience.
+* Evaluation support for assessments, introduced **partial auto grading methods**.
 
 #### In CDAC
-* Core faculty for embedded systems & IOT domains
-* Mentor for PG Diploma & MTech projects
-* Design & review of syllabus for PG-Diploma courses
-* Design & evaluation support for assessments
+* Core faculty for Embedded systems & IOT domains.
+* Mentor for PG Diploma & MTech projects.
+* **Design & review of syllabus** for PG-Diploma courses, Major focus on Embedded Systems & IOT.
+* Design & evaluation support for various assessments.
+* Developed cute-iperf : Qt based GUI for iperf, hosted at github.com/rajeshsola/cute-iperf.
+* Developed skeleton driver for Android Open Accessory(AOA) protocol, by customizing USB skeleton driver,
+  (hosted at github.com/rajeshsola/adk-driver-skeleton).
+* Developed node-red addons for IOT Prototyping,used for USB, CAN connectivity and InfluxDBaccess (hosted 
+  at github.com/rajeshsola/node-red-addons).
+* Developed addons for Eclipse Kura, an OSGi based IOT gateway – InfluxDb, HTTP REST,
+  SocketCAN service bundles and demos , hosted at github.com/rajeshsola/kura-addons.
+* Developed Qt app for IMU Sensors(SenseHAT) on RaspberryPi – for on board addon using Qt
+  Sensors, remote sensors using qmqtt module.(Desmo code for IoTShow.in,EFY Conference 2017).
+* Advisory support for **effective hardware resources**
 
-### Knowledge Sharing
+#### Common Roles & contributions 
+* **Co Delivery support** for Master's degree modules.
+* Effective team bonding & advisory support to resolve some **critical constaints**.
+* **Branding support** for the organization through knowledge sharing with community  
+* Added support for branding organizational updates & initiatives,as a **Active professional network** user.
 
-#### My Talks (Delivered in recent conferences)
+#### Some themes in student/trainee project mentoring (CDAC & KPIT)
+* Custom Drivers, Network connectivity in Zephyr OS.
+* Working with ARM mbed OS, mbed.org APIs
+* Qt programming on RaspberryPi with SenseHAT – Qt Sensors, Qt Plotting
+* Porting Xenomai on BeagleBoneBlack
+* Working with Xenomai RTDM Drivers
+* Device Firmware on MCUs, USB Host Drivers on Linux, libusb APIs
+* Interfacing Android with target boards via USB using AOA protocol
+* USBIP for remote access of connected devices – using drivers, libusb APIs
+* MiWi packet sniffing on Linux target – customizing USB Skeleton Driver
+* Working with SocketCAN
+* Building EtherCAT master & slave stacks on PC, porting to BeagleBoneBlack
+* Simulation of Realtime CAN in Xenomai environment
+* Integrating CAN networks with IOT platforms
+* Implementing CoAP server, MQTT clients on Zephyr OS
+* Bridging Bluetooth LE networks with IOT Platforms
+* Edge Computing with InfluxData kapacitor
+
+* Publishing Vehicle Telmetry Data over HTTP REST APIs
+* Simulation of Instrument Panel Cluster
+* Simulation of Infotainment sub systems - HVAC, TPMS, Media Player, Radio, Navigation etc.
+* Implementation of Remote Diagnostics on constrained devices
+* Implementation of Virtual CAN port for remote diagnostics
+* Implementation of service-oriented middleware on constrained devices
+
+#### Projects & Contributions prior to CDAC
+* Bugfixing,Feature improvement in OpenOffice.org Impress, Calc - B.E. Final Year Project as an intern at Novell Inc,Bangalore.
+* Customization of embedded linux and porting of J2ME profiles - Inhouse project at sasken
+* Porting mpeg4ip on thin linux - Inhouse project at sasken
+* Fixing of VBA Macros Interoperability issues for OpenOffice.org (Independent task)
+* QPowertop: Qt based GUI for powertop, hosted at github.com/rajeshsola/qpowertop (Independent task)
+
+### Knowledge Sharing with Community
+
+#### Talks delivered in recent conferences.
 
 - Eclipse Kura - Java/OSGi based edge framework, Open Source India 2018, Nimhans Convention Centre, Bengaluru.
 
@@ -145,9 +198,9 @@ Embedded Linux,QtQML Applications, IOT Platform connectivity, Gateway Design.
 
 - VBA Macros – Interoperability, Ooo project day, FOSS.in 2007, Bangalore.
 
-Slides of some of these sessions are hosted in my linked in profile and slideshare.net/rajeshsola
+Slides of some of these sessions are hosted in my linked in profile and [slideshare.net/rajeshsola](slideshare.net/rajeshsola)
 
-#### My Articles - Published in recent years
+#### Articles published in recent years
 
 - The Role of Open Source Software in Engineering Education, Open Source For You, February 2020
 
