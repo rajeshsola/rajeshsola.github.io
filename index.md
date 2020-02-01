@@ -3,7 +3,7 @@ Please [Click Here](profile.md) for one page profile.
 
 ### Sectionwise Profile
 
-* [Profile Sumamry](sumamry.md)
+* [About me & Sumamry](sumamry.md)
 * [Education & Experience](eduexp.md)
 * [Roles & Contributions](roles.md)
 * [Knowleddge Sharing](knowledge.md)

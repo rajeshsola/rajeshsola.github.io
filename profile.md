@@ -1,3 +1,5 @@
+> Please [click here](index.md) for section wise profile
+
 ### About me
 - Principal Educator, ECoDe, KPIT Technologies
 - 15 years of industrial & academic experience in Embedded Systems, IOT & Automotive domains.
@@ -177,7 +179,7 @@ Slides of some of these sessions are hosted in my linked in profile and slidesha
 
 Some of these articles are available for public access @ [opensourceforu.com/author/rajesh-sola](https://opensourceforu.com/author/rajesh-sola)
 
-#### Articles published in Linux For You , In past:-
+#### Past Articles published in Linux For You Magazine:-
 
 - Create Cute Apps with Qt : Part 1 & Part2, November 2009 & December 2009
 
@@ -190,8 +192,6 @@ Some of these articles are available for public access @ [opensourceforu.com/aut
 - Automate Your Work with OpenOffice.org Macros, May  2009 
 
 ### Contact Details
-
-#### Ping me @
 
 * Linkedin:- [linkedin.com/in/rajeshsola](https://in.linkedin.com/in/rajeshsola)
 
