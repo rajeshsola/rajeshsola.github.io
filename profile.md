@@ -16,10 +16,11 @@
 
 #### Potential Areas / Future Scope (In progress/wishlist)
 * Test Driven Development(TDD) in choice of language - C/C++/Java/Python edition (In Progress)
-* Embedded Android(AOSP) - Internals & System Programming, Android Automative (In Progress)
-* Yocto Linux for Embedded/Automotive solutions (In Progress)
+* Embedded Android(AOSP) - Internals & System Programming, Android Automotive (In Progress)
 * Open source software for learning needs - LMS/CMS, Auto Grading, Web based Coding Playground, Remote Hands-on (In Progress)
+* Yocto Linux for Embedded/Automotive solutions (In wishlist, with basic familiarity)
 * Code Refactoring techniques & Legacy code migration (In wishlist)
+* Develop trainings on Behavior Driven Development(BDD) in known languages.
 * Automotive Grade Linux (In wishlist)
 * Quick upskill and readiness in associated/passionate technologies (In General)
 
@@ -79,7 +80,9 @@
 #### Other Programming & IT Related
 - Core Java (Moderate level)
 - Python (Moderate level)
+- Working with GIT.
 - xUnit frameworks & mocking in C/C++, Java & Python
+- CI/CD plugins for C/C++ in Jenkins & Gitlab
 - Basic database knowledge (MySQL/Postgres)
 - Basic Javascript knowledge
 
