@@ -22,7 +22,7 @@
 * Code Refactoring techniques & Legacy code migration (In wishlist)
 * Behavior Driven Development(BDD)/Specification by Example(SBE) in known languages (In wishlist)
 * Automotive Grade Linux (In wishlist)
-* Quick upskill and readiness in associated/passionate technologies (In General)
+* Quick upskill and readiness in associated/passionate technologies as per customized training requirements (In General)
 
 #### Key Roles
 * Educator & Learning facilitator to enhance efficacy in training models.
