@@ -9,9 +9,8 @@
 ### Profile Highlights
 
 #### Skill Summary
-* Passionate in Teaching with effective and logical methods.
-* Strong Technical Skills in C/C++, Linux System Programming, Kernel programming
-  Embedded Linux,QtQML Applications.
+* Passionate in Teaching with effective and logical hands-on driven methodology.
+* Strong Technical Skills in C/C++, Linux System Programming, Kernel programming Embedded Linux,QtQML Applications.
 * Strong proficiency in modern C++ standards - C++11 & 14 (17 is in progress) with emphasis on clean coding requirements.
 * Evangelist in Open Source trends in Embedded Systems, Automotive Segment, IOT Solutions.
 
@@ -56,28 +55,43 @@
 - C++ for Embedded & Automotive target platforms (Linux based & MCUs)
 - C Programming for Linux applications, Kernel programming & Embedded Applications
 - Compliance with clean coding guidelines - standards & validators.
-- Qt programming (C++ & QML) for Embedded Systems, Automotive & IOT solutions.
 
 #### Embedded Linux
 - Effective use of GNU tools for native & cross development
-- Working with Embedded Linux - cross building kernel & applications,device tree bindings
+- Working with Embedded Linux -  custom rootfs, cross building kernel & applications,device tree bindings
 - Customization of Linux Kernel, Writing Device Drivers & Debugging.
 - Linux Internals - System Programming (Threading & IPC)
-- Real Time Operating Systems - Xenomai, FreeRTOS
-- SocketCAN, canbus support on Linux
+- Linux Build systems - Autotools, CMake etc.
+- Real Time Operating Systems - Xenomai
+- SocketCAN - CANBus support & utils in Linux
+
+#### Automotive/Infotainment Related
+- Linux baseline for IVI platforms,applied tools for development & anatomy
+- Mobility solutions with QtQML APIs
+- Automotive Middleware solutions - D-Bus, SOME/IP (moderate skills)
+- Robot Operating System (little knowledge)
 
 #### Working with MCUs
 - Host Tools & IDE support for firmware development (MCU Targets)
 - mbed.org APIs for firmware development with platformio IDE
 - Embeddded RTOS - FreeRTOS, Zephyr OS
 
-#### IOT Related
+#### Other Programming & IT Related
+- Core Java (Moderate level)
+- Python (Moderate level)
+- xUnit frameworks & mocking in C/C++, Java & Python
+- Basic database knowledge (MySQL/Postgres)
+- Basic Javascript knowledge
+
+#### IOT/Connected Solutions
+- IOT Awareness/Bootstrapping (content & delivery)
 - Open source solutions for IOT development(across the layers)
 - IOT Communication - MQTT,CoAP,HTTP REST, Websockets protocols
 - IOT Gateway solutions - NodeRED,Eclipse Kura etc.
 - IOT Platforms - connectivity & offerings
 - Prototyping with NodeRed for Embedded Systems, IOT solutions,writing custom Addons
-- Node.js for Embedded Systems,IOT programming
+- Node.js for Embedded Systems,IOT programming 
+- OCF standard specifications with IoTivity reference implementation 
 
 #### Additional:-
 - Android USB Framework - AOA Protocol, ADK support, Host APIs
@@ -151,8 +165,10 @@
 
 #### Projects & Contributions prior to CDAC
 * Bugfixing,Feature improvement in OpenOffice.org Impress, Calc - B.E. Final Year Project as an intern at Novell Inc,Bangalore.
+* Incubation tasks on headless OpenOffice.org for Batch conversion & Batch Printing - Novell Intern
 * Customization of embedded linux and porting of J2ME profiles - Inhouse project at sasken
 * Porting mpeg4ip on thin linux - Inhouse project at sasken
+* Bootstrapping with few client specific mobile frameworks - Sasken
 * Fixing of VBA Macros Interoperability issues for OpenOffice.org (Independent task)
 * QPowertop: Qt based GUI for powertop, hosted at github.com/rajeshsola/qpowertop (Independent task)
 
