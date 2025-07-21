@@ -12,9 +12,11 @@
 
 |S.No   | Designation/Role  |Department | Organization  | Period  |
 |---|---|---|---|---|
-| 1 | Educator | ECoDe  | KPIT, Pune  | Oct 2017 - Till date  |
-| 2  | Core Faculty  | ACTS  | CDAC, Pune  | Jan 2011 - Sep 2017  |
-| 3  | Asst Professor | CSE Dept  | NBKRIST, Vidyanagar  | July 2007 – Jan 2011  |
-| 4  | Software Engineer | Terminal Division Group  |Sasken Communication Technologies,Bangalore  | July 2005 – Sep 2006 |
-| 5  | NOSIP Intern | Linux Division Group  | Novell Inc, Bangalore  | Feb 2005 – June 2005  |
+| 1 | Deputy Director | CAIA  | GITAM University, Bengaluru  | Jan 2024 - Till date  |
+| 2 | Specialist & Sr.Lead | GEA  | LTTS, Bengaluru  | April 2020 - Jan 2024 |
+| 3 | Educator | ECoDe  | KPIT, Pune  | Oct 2017 - April 2020  |
+| 4  | Core Faculty  | ACTS  | CDAC, Pune  | Jan 2011 - Sep 2017  |
+| 5  | Asst Professor | CSE Dept  | NBKRIST, Vidyanagar  | July 2007 – Jan 2011  |
+| 6  | Software Engineer | Terminal Division Group  |Sasken Communication Technologies,Bangalore  | July 2005 – Sep 2006 |
+| 7  | NOSIP Intern | Linux Division Group  | Novell Inc, Bangalore  | Feb 2005 – June 2005  |
 
