@@ -2,9 +2,14 @@
 
 #### Talks delivered in recent conferences.
 
-- Eclipse Kura - Java/OSGi based edge framework, Open Source India 2018, Nimhans Convention Centre, Bengaluru.
+- Talk scheduled in [Open Source Sunmit India](https://events.linuxfoundation.org/open-source-summit-india/program/schedule) by Linux Foundation in August 2025 on RUST for Embedded Systems.
+- [Unleashing the power of Digital Twins : Eclipse Ditto in Action](https://www.iotshow.in/iotshow-2025/rajesh-sola/), India Electronics Week 2025, IotShow.in, KTPO, Bengaluru
+- Bridging Art and Engineering : Intutive UI Development with PyQt harnessing Qt Design Studio, India Electronics Week 2025, IotShow.in, KTPO, Bengaluru
+- [Unleashing the power of Android for Vehicle Cockpit Solutions](https://www.iotshow.in/elementor-25852/), India Electronics Week 2022, IotShow.in, KTPO, Bengaluru
+- EdgeXFoundry - A Tour of Features and Services, India Electronics Week 2022, IotShow.in, KTPO, Bengaluru
 - Seamless Device Connectivity with Iotivity and Zephyr OS, India Electronics Week 2018, IOTShow.in, KTPO, Bengaluru
 - QtQML application for connected Automotive Solutions , India Electronics Week 2018, IotShow.in, KTPO, Bengaluru
+- Eclipse Kura - Java/OSGi based edge framework, Open Source India 2018, Nimhans Convention Centre, Bengaluru.
 - Open Source Softwares for Gateway Design and Edge Computing,Open Source India 2017, Nimhans Convention Centre,Bengaluru. 
 - Qt Apps on RaspbeeryPi for IMU Sensors @ iotshow.in part of India Electronics Week 2017, BIEC Bengaluru.
 - Modelling IOT Gateway - A CanBus Example @ iotshow.in part of India Electronics Week 2017, BIEC Bengaluru.
