@@ -1,16 +1,16 @@
 ### About me
-- Principal Educator, ECoDe, KPIT Technologies Ltd, Pune.
-- 15 years of industrial & academic experience in Embedded Systems, IOT & Automotive domains.
+- Deputy Director, Centre for Academic Innovation and Advancement(CAIA), GITAM University.
+- 20 years of industrial & academic experience in Embedded Systems, IOT & Automotive domains.
 - Guest Author for Open Source For You(OSFY) Magazine, EFY Group
 - Invited speaker for Open Source, Embedded & IOT Conferences
 
 ### Profile Highlights
 
-#### Skill Summary
-* Passionate in Teaching with effective and logical hands-on driven methodology.
-* Strong Technical Skills in C/C++, Linux System Programming, Kernel programming Embedded Linux,QtQML Applications.
-* Strong proficiency in modern C++ standards - C++11 & 14 (17 is in progress) with emphasis on clean coding requirements.
-* Evangelist in Open Source trends in Embedded Systems, Automotive Segment, IOT Solutions.
+#### Summary
+* An Enthusiastic educator, , a leader in the field of Learning and Development, Technology & Open Source evangelist
+* Leadership & Functional skills : Learning Partner & Consultant for Business Units, Competency Frameworks, Customer Centricity, Alliances & Partnerships, Mentoring.
+* Technical Skill Highlights - Multi disciplinary skills, Thought leadership in Application & Embedded Software eco system.
+* Modern C++,Linux (Apps to BSP), AOSP & Android Automotive, QtQML, Core expertise on OS/Platform Solutions, Modern Programming Trends, RUST, Digital Connectivity.
 
 #### Potential Areas / Future Scope (In progress/wishlist)
 * Test Driven Development(TDD) in choice of language - C/C++/Java/Python edition (In Progress)
