@@ -6,7 +6,7 @@ India 2025, Nimhans Convention Centre, Bengaluru.
 - [Building Powerful Applications with Intuitive HMI Using PyQt and QML](https://cfp.in.pycon.org/2025/talk/PQQE7T/), PyCon India 2025,
 Nimhans Convention Centre, Bengaluru.
 - [RUST Meets Embedded Linux: Build Memory Safe and Reliable Kernel Modules, Applica­
-tions](https://events.linuxfoundation.org/open-source-summit-india/program/schedule](https://ossindia2025.sched.com/event/23Jl5/rust-meets-embedded-linux-build-memory-safe-and-reliable-kernel-modules-applications-rajesh-sola-gitam-university),Open Source Summit India 2025 by Linux Foundation, HICC Novotel, Hyderabad.
+tions](https://ossindia2025.sched.com/event/23Jl5/rust-meets-embedded-linux-build-memory-safe-and-reliable-kernel-modules-applications-rajesh-sola-gitam-university),Open Source Summit India 2025 by Linux Foundation, HICC Novotel, Hyderabad.
 - [Unleashing the power of Digital Twins : Eclipse Ditto in Action](https://www.iotshow.in/iotshow-2025/rajesh-sola/), India Electronics Week 2025, IotShow.in, KTPO, Bengaluru
 - Bridging Art and Engineering : Intutive UI Development with PyQt harnessing Qt Design Studio, India Electronics Week 2025, IotShow.in, KTPO, Bengaluru
 - [Unleashing the power of Android for Vehicle Cockpit Solutions](https://www.iotshow.in/elementor-25852/), India Electronics Week 2022, IotShow.in, KTPO, Bengaluru
