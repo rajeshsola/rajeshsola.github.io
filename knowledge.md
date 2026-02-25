@@ -38,26 +38,26 @@ tions](https://ossindia2025.sched.com/event/23Jl5/rust-meets-embedded-linux-buil
 
 Slides of some of these sessions are hosted in my linked in profile and [slideshare.net/rajeshsola](slideshare.net/rajeshsola)
 
-#### Articles published in recent years
+#### Articles published in [Open Source for You](https://magazine.opensourceforu.com/) Magazine, EFY Group
 
-- [The Role of Open Source Software in Engineering Education](https://www.opensourceforu.com/2020/02/the-role-of-open-source-software-in-engineering-education/), Open Source For You, February 2020
-- You Need Not Be A Developer To Contribute To Open Source, Interview published in Open Source For You, February 2019 [Link](https://opensourceforu.com/2019/03/you-need-not-be-a-developer-to-contribute-to-open-source/)
-- [Use Sourcetrail to Work Easily with Unfamiliar Code](https://www.opensourceforu.com/2020/10/use-sourcetrail-to-work-easily-with-unfamiliar-code/), Open Source For You, Web Artcle.
-- [Getting Started with CAN Networking in Linux](https://www.opensourceforu.com/2019/03/getting-started-with-can-networking-in-linux/), Open Source For You, January 2019
-- [What's new in C++11 & C++14](https://www.opensourceforu.com/2018/11/whats-new-in-c11-and-c14/), Open Source For You, October 2018
-- [Developing ARM Targets Using GNU MCU Eclipse](https://www.opensourceforu.com/2017/12/developing-arm-targets-using-gnu-mcu-eclipse/), Open Source For You, November 2017
-- [Snappy Ubuntu Core for Embedded and IoT Devices](https://www.opensourceforu.com/2017/11/snappy-ubuntu-core-embedded-iot-devices/), Open Source For You, October 2017
-- [Building REST APIs with LoopBack framework](https://www.opensourceforu.com/2017/07/building-rest-apis-loopback-framework/), Open Source For You, July 2017
-- [Writing Custom Add-ons for Node-RED](https://www.opensourceforu.com/2017/07/writing-custom-add-ons-node-red/), Open Source For You, June 2017 
-- [SiteWhere : An Open Platform for Conencted Devices](https://www.opensourceforu.com/2017/07/sitewhere-open-platform-connected-devices/), Open Source For You, June 2017
-- [Qt Programming for HTTP REST Clients](https://www.opensourceforu.com/2017/06/qt-programming-http-rest-clients/), Open Source For You, May 2017
-- [Managing Timeseries Data using InfluxData](https://www.opensourceforu.com/2017/05/managing-time-series-data-using-influxdata/), Open Source For You, April 2017
-- [Open source software that help for your IOT development](https://www.opensourceforu.com/2017/03/open-source-software-can-use-iot-development/), Open Source For You, February 2017 & Republished in Electronics For You, June 2017
-- [GNU Tools that help you for C/C++ Development](https://www.opensourceforu.com/2016/12/gnu-tools-help-develop-cc-applications/), Open Source For You, November 2016
-- [MQTT:Get Started with IOT Protocols](https://www.opensourceforu.com/2016/11/mqtt-get-started-iot-protocols/), Open Source For You, October 2016
-- [CoAP:Get Started with IOT Protocols](https://www.opensourceforu.com/2016/09/coap-get-started-with-iot-protocols/), Open Source For You, August 2016
-- [What’s the Android Open Accessory Protocol All About](https://www.opensourceforu.com/2014/11/the-android-open-accessory-protocol-all-about/), Open Source For You, October 2014
-- [How to Cross Compile the Linux Kernel with Device Tree Support](https://www.opensourceforu.com/2014/10/how-to-cross-compile-the-linux-kernel-with-device-tree-support/), Open Source For You, September 2014
+- [The Role of Open Source Software in Engineering Education](https://www.opensourceforu.com/2020/02/the-role-of-open-source-software-in-engineering-education/), February 2020
+- [You Need Not Be A Developer To Contribute To Open Source](https://opensourceforu.com/2019/03/you-need-not-be-a-developer-to-contribute-to-open-source/), Interview published in February 2019
+- [Use Sourcetrail to Work Easily with Unfamiliar Code](https://www.opensourceforu.com/2020/10/use-sourcetrail-to-work-easily-with-unfamiliar-code/), Web Artcle.
+- [Getting Started with CAN Networking in Linux](https://www.opensourceforu.com/2019/03/getting-started-with-can-networking-in-linux/), January 2019
+- [What's new in C++11 & C++14](https://www.opensourceforu.com/2018/11/whats-new-in-c11-and-c14/), October 2018
+- [Developing ARM Targets Using GNU MCU Eclipse](https://www.opensourceforu.com/2017/12/developing-arm-targets-using-gnu-mcu-eclipse/), November 2017
+- [Snappy Ubuntu Core for Embedded and IoT Devices](https://www.opensourceforu.com/2017/11/snappy-ubuntu-core-embedded-iot-devices/), October 2017
+- [Building REST APIs with LoopBack framework](https://www.opensourceforu.com/2017/07/building-rest-apis-loopback-framework/), July 2017
+- [Writing Custom Add-ons for Node-RED](https://www.opensourceforu.com/2017/07/writing-custom-add-ons-node-red/), June 2017 
+- [SiteWhere : An Open Platform for Conencted Devices](https://www.opensourceforu.com/2017/07/sitewhere-open-platform-connected-devices/), June 2017
+- [Qt Programming for HTTP REST Clients](https://www.opensourceforu.com/2017/06/qt-programming-http-rest-clients/),  May 2017
+- [Managing Timeseries Data using InfluxData](https://www.opensourceforu.com/2017/05/managing-time-series-data-using-influxdata/), April 2017
+- [Open source software that help for your IOT development](https://www.opensourceforu.com/2017/03/open-source-software-can-use-iot-development/), February 2017 & Republished in Electronics For You, June 2017
+- [GNU Tools that help you for C/C++ Development](https://www.opensourceforu.com/2016/12/gnu-tools-help-develop-cc-applications/), November 2016
+- [MQTT:Get Started with IOT Protocols](https://www.opensourceforu.com/2016/11/mqtt-get-started-iot-protocols/), October 2016
+- [CoAP:Get Started with IOT Protocols](https://www.opensourceforu.com/2016/09/coap-get-started-with-iot-protocols/), August 2016
+- [What’s the Android Open Accessory Protocol All About](https://www.opensourceforu.com/2014/11/the-android-open-accessory-protocol-all-about/), October 2014
+- [How to Cross Compile the Linux Kernel with Device Tree Support](https://www.opensourceforu.com/2014/10/how-to-cross-compile-the-linux-kernel-with-device-tree-support/), September 2014
 
 #### Past Articles published in Linux For You Magazine:-
 
